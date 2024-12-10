@@ -1,0 +1,5 @@
+Steps I took to install Sass:
+1. Opened up my vscode
+2.Navigated to the desired directory which in this case is 0x03-sass_scss
+3. Made sure node.js is installed on my pc
+4.I opened the terminal and ran the command:npm install sass -v 3.7.4
